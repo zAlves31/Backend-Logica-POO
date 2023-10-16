@@ -1,0 +1,15 @@
+C:\Users\52546124870\Desktop\Projeto_Senha-usuario\bin\Debug\net7.0\Projeto_Senha-usuario.exe
+C:\Users\52546124870\Desktop\Projeto_Senha-usuario\bin\Debug\net7.0\Projeto_Senha-usuario.deps.json
+C:\Users\52546124870\Desktop\Projeto_Senha-usuario\bin\Debug\net7.0\Projeto_Senha-usuario.runtimeconfig.json
+C:\Users\52546124870\Desktop\Projeto_Senha-usuario\bin\Debug\net7.0\Projeto_Senha-usuario.dll
+C:\Users\52546124870\Desktop\Projeto_Senha-usuario\bin\Debug\net7.0\Projeto_Senha-usuario.pdb
+C:\Users\52546124870\Desktop\Projeto_Senha-usuario\obj\Debug\net7.0\Projeto_Senha-usuario.csproj.AssemblyReference.cache
+C:\Users\52546124870\Desktop\Projeto_Senha-usuario\obj\Debug\net7.0\Projeto_Senha-usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52546124870\Desktop\Projeto_Senha-usuario\obj\Debug\net7.0\Projeto_Senha-usuario.AssemblyInfoInputs.cache
+C:\Users\52546124870\Desktop\Projeto_Senha-usuario\obj\Debug\net7.0\Projeto_Senha-usuario.AssemblyInfo.cs
+C:\Users\52546124870\Desktop\Projeto_Senha-usuario\obj\Debug\net7.0\Projeto_Senha-usuario.csproj.CoreCompileInputs.cache
+C:\Users\52546124870\Desktop\Projeto_Senha-usuario\obj\Debug\net7.0\Projeto_Senha-usuario.dll
+C:\Users\52546124870\Desktop\Projeto_Senha-usuario\obj\Debug\net7.0\refint\Projeto_Senha-usuario.dll
+C:\Users\52546124870\Desktop\Projeto_Senha-usuario\obj\Debug\net7.0\Projeto_Senha-usuario.pdb
+C:\Users\52546124870\Desktop\Projeto_Senha-usuario\obj\Debug\net7.0\Projeto_Senha-usuario.genruntimeconfig.cache
+C:\Users\52546124870\Desktop\Projeto_Senha-usuario\obj\Debug\net7.0\ref\Projeto_Senha-usuario.dll

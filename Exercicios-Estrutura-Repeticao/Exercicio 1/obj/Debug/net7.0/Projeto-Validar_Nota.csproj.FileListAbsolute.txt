@@ -1,0 +1,15 @@
+C:\Users\52546124870\Desktop\Projeto-Validar_Nota\obj\Debug\net7.0\Projeto-Validar_Nota.csproj.AssemblyReference.cache
+C:\Users\52546124870\Desktop\Projeto-Validar_Nota\obj\Debug\net7.0\Projeto-Validar_Nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52546124870\Desktop\Projeto-Validar_Nota\obj\Debug\net7.0\Projeto-Validar_Nota.AssemblyInfoInputs.cache
+C:\Users\52546124870\Desktop\Projeto-Validar_Nota\obj\Debug\net7.0\Projeto-Validar_Nota.AssemblyInfo.cs
+C:\Users\52546124870\Desktop\Projeto-Validar_Nota\obj\Debug\net7.0\Projeto-Validar_Nota.csproj.CoreCompileInputs.cache
+C:\Users\52546124870\Desktop\Projeto-Validar_Nota\bin\Debug\net7.0\Projeto-Validar_Nota.exe
+C:\Users\52546124870\Desktop\Projeto-Validar_Nota\bin\Debug\net7.0\Projeto-Validar_Nota.deps.json
+C:\Users\52546124870\Desktop\Projeto-Validar_Nota\bin\Debug\net7.0\Projeto-Validar_Nota.runtimeconfig.json
+C:\Users\52546124870\Desktop\Projeto-Validar_Nota\bin\Debug\net7.0\Projeto-Validar_Nota.dll
+C:\Users\52546124870\Desktop\Projeto-Validar_Nota\bin\Debug\net7.0\Projeto-Validar_Nota.pdb
+C:\Users\52546124870\Desktop\Projeto-Validar_Nota\obj\Debug\net7.0\Projeto-Validar_Nota.dll
+C:\Users\52546124870\Desktop\Projeto-Validar_Nota\obj\Debug\net7.0\refint\Projeto-Validar_Nota.dll
+C:\Users\52546124870\Desktop\Projeto-Validar_Nota\obj\Debug\net7.0\Projeto-Validar_Nota.pdb
+C:\Users\52546124870\Desktop\Projeto-Validar_Nota\obj\Debug\net7.0\Projeto-Validar_Nota.genruntimeconfig.cache
+C:\Users\52546124870\Desktop\Projeto-Validar_Nota\obj\Debug\net7.0\ref\Projeto-Validar_Nota.dll

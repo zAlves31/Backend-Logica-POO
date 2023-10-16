@@ -1,0 +1,15 @@
+C:\Users\52546124870\Desktop\Projeto-Tabuada\bin\Debug\net7.0\Projeto-Tabuada.exe
+C:\Users\52546124870\Desktop\Projeto-Tabuada\bin\Debug\net7.0\Projeto-Tabuada.deps.json
+C:\Users\52546124870\Desktop\Projeto-Tabuada\bin\Debug\net7.0\Projeto-Tabuada.runtimeconfig.json
+C:\Users\52546124870\Desktop\Projeto-Tabuada\bin\Debug\net7.0\Projeto-Tabuada.dll
+C:\Users\52546124870\Desktop\Projeto-Tabuada\bin\Debug\net7.0\Projeto-Tabuada.pdb
+C:\Users\52546124870\Desktop\Projeto-Tabuada\obj\Debug\net7.0\Projeto-Tabuada.csproj.AssemblyReference.cache
+C:\Users\52546124870\Desktop\Projeto-Tabuada\obj\Debug\net7.0\Projeto-Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\52546124870\Desktop\Projeto-Tabuada\obj\Debug\net7.0\Projeto-Tabuada.AssemblyInfoInputs.cache
+C:\Users\52546124870\Desktop\Projeto-Tabuada\obj\Debug\net7.0\Projeto-Tabuada.AssemblyInfo.cs
+C:\Users\52546124870\Desktop\Projeto-Tabuada\obj\Debug\net7.0\Projeto-Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\52546124870\Desktop\Projeto-Tabuada\obj\Debug\net7.0\Projeto-Tabuada.dll
+C:\Users\52546124870\Desktop\Projeto-Tabuada\obj\Debug\net7.0\refint\Projeto-Tabuada.dll
+C:\Users\52546124870\Desktop\Projeto-Tabuada\obj\Debug\net7.0\Projeto-Tabuada.pdb
+C:\Users\52546124870\Desktop\Projeto-Tabuada\obj\Debug\net7.0\Projeto-Tabuada.genruntimeconfig.cache
+C:\Users\52546124870\Desktop\Projeto-Tabuada\obj\Debug\net7.0\ref\Projeto-Tabuada.dll
